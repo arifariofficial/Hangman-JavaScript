@@ -1,0 +1,18 @@
+type: code
+custom_name: Is it useful?
+files:
+  - name: main.js
+    visible: true
+    highlight_level: NONE
+    text: |-
+      function isItUseful(string) {
+      
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17769#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 28 Feb 2024 21:20:59 UTC"
+record: -1
+submission_language: javascript

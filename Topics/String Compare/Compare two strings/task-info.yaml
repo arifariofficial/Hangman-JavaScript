@@ -1,0 +1,18 @@
+type: code
+files:
+  - name: main.js
+    visible: true
+    text: |-
+      let firstStr = "Apple";
+      let secondStr = "Apple Iphone";
+      
+      let compareTwo = ...
+      console.log(compareTwo);
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18300#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 28 Feb 2024 20:37:29 UTC"
+record: -1
+submission_language: javascript
